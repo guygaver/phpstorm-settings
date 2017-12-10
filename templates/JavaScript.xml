@@ -1,0 +1,15 @@
+<templateSet group="JavaScript">
+  <template name="vue-instance" value="new Vue({&#10;   el: '$el$' &#10;});" description="Vue instance" toReformat="false" toShortenFQNames="true">
+    <variable name="el" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="vue-component" value="Vue.component('$NAME$', {&#10;&#10;    template: '$TNAME$',&#10;    &#10;    data() {&#10;        return {&#10;        &#10;        }&#10;    }&#10;})" description="Vue component" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TNAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

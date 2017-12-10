@@ -1,0 +1,17 @@
+<templateSet group="Bootstrap">
+  <template name="textfield" value="&lt;div class=&quot;form-group&quot;&gt;&#10;    &lt;label for=&quot;$NAME$&quot;&gt;&lt;/label&gt;&#10;    &lt;input type=&quot;text&quot; class=&quot;form-control&quot; id=&quot;$NAME$&quot; name=&quot;$NAME$&quot; value=&quot;$VALUE$&quot; placeholder=&quot;$PLACEHOLDER$&quot;&gt;&#10; &lt;/div&gt;" description="Bootstrap Text Field" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PLACEHOLDER" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="datefield" value="&lt;div class=&quot;form-group&quot;&gt;&#10;    &lt;label for=&quot;$NAME$&quot;&gt;&lt;/label&gt;&#10;    &lt;input type=&quot;date&quot; class=&quot;form-control&quot; id=&quot;$NAME$&quot; name=&quot;$NAME$&quot; value=&quot;$VALUE$&quot;&gt;&#10; &lt;/div&gt;" description="Date Field" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

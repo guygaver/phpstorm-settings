@@ -1,0 +1,8 @@
+<templateSet group="Bulma">
+  <template name="bulmainput" value="&lt;div class=&quot;field&quot;&gt;&#10;    &lt;label class=&quot;label&quot;&gt;&lt;/label&gt;&#10;    &lt;div class=&quot;control&quot;&gt;&#10;        &lt;input class=&quot;input&quot; type=&quot;text&quot; placeholder=&quot;&quot; value=&quot;&quot;&gt;&#10;    &lt;/div&gt;&#10;    &lt;p class=&quot;help&quot;&gt;&lt;/p&gt;&#10;&lt;/div&gt;" description="A simple bulma input" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,23 @@
+<templateSet group="PHP">
+  <template name="req" value="require &quot;$END$&quot;;" description="'require' statement" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="reqo" value="require_once &quot;$END$&quot;;" description="'require_once' statement" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="_con" value="public function __construct() {&#10;    $END$&#10;}" description="Constructor" toReformat="false" toShortenFQNames="true" />
+  <template name="pubf{" value="public function $NAME$($PARAMETERS$)&#10;{&#10;    $END$&#10;}" description="Public function framework style" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="testfunc" value="/**&#10; * @test&#10; */&#10;public function $NAME$()&#10;{&#10;    $END$&#10;}" description="PHPUnit test function" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
