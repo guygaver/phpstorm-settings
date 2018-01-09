@@ -16,7 +16,7 @@
       <interpreter home="vagrant:///Users/Guy/Sites/acquirehealth/usr/bin/php" id="65c5a136-e248-452d-9fe8-ec0c9e654e0a" name="Remote PHP 5.4" debugger_id="php.debugger.XDebug">
         <remote_data VAGRANT_FOLDER="$USER_HOME$/Sites/acquirehealth" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
-      <interpreter home="/usr/local/Cellar/php71/7.1.13_24/bin/php" id="6d981337-704a-4fc3-beec-7034fe7346f4" name="PHP 7" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/usr/local/bin/php" id="6d981337-704a-4fc3-beec-7034fe7346f4" name="PHP 7" debugger_id="php.debugger.XDebug" />
       <interpreter home="vagrant:///Users/Guy/Sites/mmm/watertree/usr/bin/php" id="dc06fa66-35b3-435c-b1a8-1a9e62fcdf04" name="Remote PHP 5.3" debugger_id="php.debugger.XDebug">
         <remote_data VAGRANT_FOLDER="$USER_HOME$/Sites/mmm/watertree" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
@@ -1405,7 +1405,7 @@
             <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
             <configuration_option name="xdebug.remote_enable" value="0" />
             <configuration_option name="xdebug.remote_handler" value="dbgp" />
-            <configuration_option name="xdebug.remote_host" value="192.168.100.29" />
+            <configuration_option name="xdebug.remote_host" value="localhost" />
             <configuration_option name="xdebug.remote_log" value="" />
             <configuration_option name="xdebug.remote_mode" value="req" />
             <configuration_option name="xdebug.remote_port" value="9001" />
