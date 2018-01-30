@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="dosdif" type="PLAIN_TEXT" />
       <mapping pattern="skdfh" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
