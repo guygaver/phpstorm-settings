@@ -11,7 +11,6 @@
     <entry key="ide.tooltip.initialDelay" value="1001" />
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
-    <entry key="ide.mac.allowDarkWindowDecorations" value="false" />
     <entry key="bigger.font.in.project.view" value="true" />
   </component>
 </application>
