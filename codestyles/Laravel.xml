@@ -1,4 +1,4 @@
-<code_scheme name="Laravel">
+<code_scheme name="Laravel" version="173">
   <option name="RIGHT_MARGIN" value="300" />
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
@@ -10,7 +10,7 @@
     <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
-    <option name="BLANK_LINE_BEFORE_RETURN_STATEMENT" value="true" />
+    <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
     <option name="SPACE_BEFORE_UNARY_NOT" value="true" />
     <option name="SPACE_AFTER_UNARY_NOT" value="true" />
@@ -31,7 +31,6 @@
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
-    <option name="ELSE_ON_NEW_LINE" value="true" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="SPACE_WITHIN_IF_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_WHILE_PARENTHESES" value="true" />
