@@ -18,6 +18,7 @@
   <action id="ConvertIndentsToSpaces">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="DatabaseView.CopyDdlAction" />
   <action id="DatabaseView.PropertiesAction" />
   <action id="Debug" />
   <action id="DuplicatesForm.SendToRight" />
