@@ -17,6 +17,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Unnamed'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'Unnamed'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'counter.spec.js'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -38,6 +46,14 @@
           <IdeaActionID>PhpListenDebugAction</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Stop Listening for PHP Debug Connections</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Terminal">
+        <Item>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'⌘2'</ShortCut>
+          <Description>Terminal</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
