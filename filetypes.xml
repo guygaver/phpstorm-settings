@@ -2,10 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="maclistimport" type="PLAIN_TEXT" />
-      <mapping pattern="somefile" type="PLAIN_TEXT" />
-      <mapping pattern=".env-example" type="PLAIN_TEXT" />
+      <mapping ext="hbs" type="HTML" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="maclistimport" type="PLAIN_TEXT" />
+      <mapping pattern=".env-example" type="PLAIN_TEXT" />
+      <mapping pattern="somefile" type="PLAIN_TEXT" />
       <mapping pattern="dosdif" type="PLAIN_TEXT" />
       <mapping pattern="skdfh" type="PLAIN_TEXT" />
     </extensionMap>
