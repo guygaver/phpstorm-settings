@@ -1,13 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.4.2-2018.1" />
+    <option name="version" value="1.6.1" />
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="highlightColor" value="80cbc4" />
     <option name="accentColor" value="80cbc4" />
     <option name="compactSidebar" value="true" />
     <option name="statusBarTheme" value="false" />
     <option name="isCompactStatusBar" value="true" />
-    <option name="userId" value="-3c497a6e:164a389e3b9:-7fff" />
-    <option name="allowDataCollection" value="true" />
   </component>
 </application>
